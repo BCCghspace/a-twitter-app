@@ -1,3 +1,3 @@
 # a-twitter-app
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BCCghspace/a-twitter-app/HEAD)   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BCCghspace/tweets-on-femalerights/HEAD?labpath=a%20twitter%20app%20-%20v1.ipynb)
 [Heroku App](https://tweets-on-femalerights.herokuapp.com/)
